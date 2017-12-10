@@ -1,5 +1,2 @@
-# AI-Project_Digit-Recognition
-# KNN
-# KNN
-# KNN
-# PCA
+PCA
+To visualize PCA results: scree plot in Python
